@@ -47,6 +47,7 @@
 ---
 
 ## 📂 專案結構
+```
 ├── Report/ # 專題報告 PDF
 ├── swinCT/ # CT 模型程式碼
 │ ├── model.py
@@ -59,6 +60,7 @@
 │ ├── t_NiftiDataset.py
 │ └── t_testwithoutoutput.py
 └── README.md
+```
 
 ---
 

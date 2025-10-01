@@ -57,12 +57,13 @@
 │ ├── model.py
 │ ├── train_local_MRI.py
 │ ├── t_NiftiDataset.py
-│ └── t_testwithoutput.py
+│ └── t_testwithoutoutput.py
 └── README.md
 
 ---
 
 ## 📥 資料及來源
-由於 GitHub 檔案大小限制，完整測試資料與訓練好的模型參數請至外部連結下載：
-MRI 資料集（Mendeley）https://data.mendeley.com/datasets/zbf6b4pttk/2
-CT 資料集（Kaggle）https://www.kaggle.com/datasets/pycadmk/spine-segmentation-from-ct-scans
+由於 GitHub 檔案大小限制，完整測試資料與訓練好的模型參數請至外部下載：  
+
+- [MRI 資料集（Mendeley）](https://data.mendeley.com/datasets/zbf6b4pttk/2)  
+- [CT 資料集（Kaggle）](https://www.kaggle.com/datasets/pycadmk/spine-segmentation-from-ct-scans)  
